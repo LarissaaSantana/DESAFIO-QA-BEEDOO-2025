@@ -1,8 +1,8 @@
-### Decisões tomadas para a criação da História de usuário.
+### Decisões tomadas para a criação da Historia de usuário.
 
-Foi usada a metodologia de **teste exploratório** para entender melhor o funcionamento do sistema e levantar informações reais. Durante o processo, explorei diferentes partes da aplicação, usei ferramentas do navegador (como console e network) e observei o comportamento das funções. Isso ajudou a identificar pontos importantes e reunir dados úteis para montar a história de usuário com mais clareza e base técnica.
+Foi usada a metodologia de **teste exploratório** para entender melhor o funcionamento do sistema e levantar informações reais. Durante o processo, explorei diferentes partes da aplicação, usei ferramentas do navegador (como console e network) e observei o comportamento das funções. Isso ajudou a identificar pontos importantes e reunir dados úteis para montar a user story com mais clareza e base técnica.
 
-As decisões foram tomadas com base nos resultados do teste e na minha experiência como QA durante o estágio. Essa vivência ajudou a enxergar possíveis falhas e pensar em diferentes cenários, incluindo erros e exceções. Assim, a história de usuário foi construída de forma objetiva e prática, garantindo que refletisse o que o usuário realmente precisa e trazendo valor ao produto final.
+As decisões foram tomadas com base nos resultados do teste e na minha experiência como QA durante o estágio. Essa vivência ajudou a enxergar possíveis falhas e pensar em diferentes cenários, incluindo erros e exceções. Assim, a user story foi construída de forma objetiva e prática, garantindo que refletisse o que o usuário realmente precisa e trazendo valor ao produto final.
 
 ### HU Criar curso
 **Dado que** o usuário está na página da listagem de curso
@@ -62,3 +62,5 @@ Cada card de curso deve seguir uma ordem ASC onde deve conter a imagem de capa, 
 Ao clicar no botão **EXCLUIR CURSO** o sistema devera excluir o curso do banco de dados e apresentar mensagem de **Curso excluido com sucesso**
 
 
+**Link da planilha dos casos de  teste**
+https://docs.google.com/spreadsheets/d/16hXfZYZydNEdjGvsCdIbdwXgvtgAmR_V9-p1XKqKvVU/edit?usp=sharing
